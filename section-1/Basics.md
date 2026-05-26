@@ -1,10 +1,10 @@
-# Microsoft Excel — Section 1: Understanding the Basics
+# Microsoft Excel  Section 1: Understanding the Basics
 
 A beginner-friendly guide to Excel fundamentals. Every concept is tied to the included dataset `employee_sales_data.xlsx` so you can follow along with real data.
 
 ---
 
-## 📁 Files in this repo
+##  Files in this repo
 
 | File | Description |
 |------|-------------|
@@ -12,7 +12,7 @@ A beginner-friendly guide to Excel fundamentals. Every concept is tied to the in
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset contains 10 employees across Sales, HR, and Finance with the following columns:
 
@@ -30,7 +30,7 @@ The dataset contains 10 employees across Sales, HR, and Finance with the followi
 
 ---
 
-## 📝 Topics Covered
+##  Topics Covered
 
 ### 1. Understanding Excel Layout
 The main components of the Excel workspace — Title Bar, Ribbon, Name Box, Formula Bar, Sheet Tabs, and Status Bar.
@@ -261,7 +261,7 @@ Flash Fill — Excel detects your pattern and fills the rest automatically.
 
 ---
 
-## 🔢 Summary Formulas
+##  Summary Formulas
 
 These are already built into the dataset. Open the file and check the summary section at the bottom.
 
